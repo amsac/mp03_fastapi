@@ -18,7 +18,7 @@ class Settings(BaseSettings):
         "https://localhost:8000",  # type: ignore
     ]
 
-    PROJECT_NAME: str = "Titanic Survival Prediction API"
+    PROJECT_NAME: str = "Bikerental Prediction API"
 
     class Config:
         case_sensitive = True
