@@ -1,4 +1,4 @@
-# MP03 FastAPI — Bike Rental Prediction API
+# FastAPI — Bike Rental Prediction API
 
 This repository contains a FastAPI application that serves a bike rental demand prediction model. It includes the API code, a Python wheel for the trained model, and the runtime dependencies needed to run the service locally or in a container.
 
